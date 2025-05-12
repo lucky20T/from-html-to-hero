@@ -51,7 +51,7 @@ main{
 }
 main h1{
     text-align: center;
-    font-size: 12rem;
+    font-size: 8rem;
     font-weight: 900;
     letter-spacing:5px;
     line-height:1;
@@ -123,5 +123,14 @@ main h1{
         top: 90%;
         opacity: 1;
     }
+    
+}
+/* 3D planet */
+.planet-3D{
+    position: absolute;
+    top: -20%;
+    right: -14%;
+    width: 130%;
+    height: 130%;
     
 }
